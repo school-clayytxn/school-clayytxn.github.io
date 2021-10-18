@@ -1,4 +1,4 @@
 # school-clayytxn.github.io
-##INTRODUCING backCAT anti-login toolkit
+## INTRODUCING backCAT anti-login toolkit
 <br />A new security loophole by clayytxn (me :]) was just discovered that allows partial websurfing without logging into the chromebook, bypassing any extensions loaded at login and any account oversee is nonexistent
 <br />This is by the Microsoft Login webpage extension used by many orginizations, school, and other institutions that dont use chromeOS's native sign in tool.
